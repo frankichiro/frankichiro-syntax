@@ -2,4 +2,4 @@
 
 A colorful Pulsar theme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot](https://raw.githubusercontent.com/frankichiro/frankichiro-syntax/main/assets/Screenshot%20from%202023-06-02%2021-07-22.png)
