@@ -1,0 +1,2 @@
+# frankichiro-syntax
+ Pulsar theme
